@@ -4,10 +4,10 @@
  *
  * @link      https://github.com/googleforcreators/web-stories-wp
  *
- * Plugin Name: Web Stories
+ * Plugin Name: CodePure Web Stories
  * Description: Visual storytelling for WordPress.
  * Plugin URI: https://wp.stories.google/
- * Author: Google
+ * Author: CodePure Pty LTD
  * Author URI: https://opensource.google.com/
  * Version: 1.34.0
  * Requires at least: 6.1
